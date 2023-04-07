@@ -1,4 +1,4 @@
-# lazcode-resourcepack
+# Rubies Textures
 
 Versioning The version format is x.y,
 
